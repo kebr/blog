@@ -15,7 +15,9 @@ include 'lib/php/config.php';
 </head>
 <body>
 
-
+<?php
+echo "master";
+?>
 
 </body>
 </html>
