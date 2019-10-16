@@ -15,9 +15,6 @@ include 'lib/php/config.php';
 </head>
 <body>
 
-<?php
-
-?>
 
 
 </body>
